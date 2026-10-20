@@ -75,7 +75,6 @@
 - [f1api.dev](https://f1api.dev/) - Developer-focused F1 API and SDK surface. [GitHub](https://github.com/rafacv23/f1-api).
 - [F1PyStats](https://github.com/alec-kr/F1PyStats) - Python package for standings, race results, and historical summaries.
 - [API-Sports Formula 1](https://api-sports.io/documentation/formula-1/v1) - Commercial API with free tier (100 req/day), covering seasons, standings, and results.
-- [RaceHooks](https://racehooks.io/docs) - Motorsport analytics platform and ML analytics API — live F1 timing data and race intelligence pushed to your endpoint.
 
 ### Datasets and Telemetry Archives
 
@@ -347,6 +346,7 @@ Alpine and Ferrari link to their official brand-wide YouTube channels, which als
 - [Motor Sport Magazine Database](https://www.motorsportmagazine.com/database/) - Nearly every motorsport race since 1894. Drivers, teams, circuits, championships.
 - [DriverDB](https://www.driverdb.com/) - Career statistics for 70,000+ drivers across all levels of motorsport with Elo-style ranking.
 - [FIA Results and Statistics](https://fiaresultsandstatistics.motorsportstats.com/) - Official FIA results portal powered by Motorsport Stats, covering all FIA-sanctioned championships.
+- [RaceHooks](https://racehooks.io/docs) - Motorsport analytics platform and ML analytics API — live F1 timing data and race intelligence pushed to your endpoint.
 
 ### Seed Metadata
 
