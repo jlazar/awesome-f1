@@ -75,6 +75,7 @@
 - [f1api.dev](https://f1api.dev/) - Developer-focused F1 API and SDK surface. [GitHub](https://github.com/rafacv23/f1-api).
 - [F1PyStats](https://github.com/alec-kr/F1PyStats) - Python package for standings, race results, and historical summaries.
 - [API-Sports Formula 1](https://api-sports.io/documentation/formula-1/v1) - Commercial API with free tier (100 req/day), covering seasons, standings, and results.
+- [RaceHooks](https://racehooks.io/docs) - Motorsport analytics platform and ML analytics API — live F1 timing data and race intelligence pushed to your endpoint.
 
 ### Datasets and Telemetry Archives
 
